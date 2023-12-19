@@ -1,4 +1,4 @@
-# Hi, I'm Ho Sim (심호)👋
+# 👋 Hi, I'm Ho Sim (심호)
 ### I'm a full-stack software developer, a freelance Korean-English translator, and a Computer Science student at University of Central Florida.
 ### I'm building tools to help people organize  their data and make it more accessible and useful.
 
